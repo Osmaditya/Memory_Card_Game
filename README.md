@@ -46,9 +46,9 @@ A simple and fun web-based memory card game where the objective is to match all 
 
 ## Installation
 1. Clone the repository:
-   bash
+   ```bash
    git clone https://github.com/your-username/memory-card-game.git
 2. Navigate to the project directory:
-   bash
-    cd memory-card-game
+   ```bash
+   cd memory-card-game
 3. Open the index.html file in your browser to start playing the game.
